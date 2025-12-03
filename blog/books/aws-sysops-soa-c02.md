@@ -10,4 +10,4 @@ If you’re serious about passing the SysOps exam and want a study guide that’
 
 [Grab your copy of Mastering AWS SysOps on Amazon](https://www.amazon.com/dp/B0F5CTVRFN?ref=ppx_yo2ov_dt_b_fed_asin_title).
 
-![alt text](./images/soa-c02.png)
+<img src="./images/soa-c02.png" width="200" height="200">
