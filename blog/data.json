@@ -1,0 +1,19 @@
+{
+    "books":[
+        {
+            "title": "AWS Certified SysOps Administrator - Associate exam (SOA-C02)",
+            "link": "https://github.com/Pela647/robtech/tree/main/blog/books"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "test",
+            "link": "github"
+        },
+        {
+            "title": "test-2",
+            "link": "github"
+        }
+    ],
+    "misc":[]
+}
